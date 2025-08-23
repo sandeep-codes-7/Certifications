@@ -11,3 +11,7 @@
 
 ### Introduction to Natural Language Processesing
 ![NLP](./infosys_springboard_NLP.jpg)
+
+# Skill Badges
+### Skill Badges aquired from cloud skill boost by google.
+- https://www.credly.com/users/sandeep-kumar-karem
