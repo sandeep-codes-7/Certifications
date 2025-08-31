@@ -4,6 +4,13 @@
   
 ![CS50P](./CS50P.jpg)
 
+---
+
+### CyberSecurity Analyst Job Simulation
+![IAM](./CyberSec_IAM.jpg)
+
+---
+
 ### Python for beginners - Udemy
 - https://www.udemy.com/certificate/UC-cc7feea2-c782-41b4-a747-dfe03f5eb174/
 
@@ -15,11 +22,6 @@
 
 ### Introduction to Natural Language Processesing
 ![NLP](./infosys_springboard_NLP.jpg)
-
----
-
-### CyberSecurity Analyst Job Simulation
-![IAM](./CyberSec_IAM.jpg)
 
 ---
 # [Software Engineering and Agile Development](./software_engineering_and_Agile.pdf/)
