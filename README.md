@@ -7,6 +7,9 @@
 ---
 
 ### CyberSecurity Analyst Job Simulation
+
+- https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_68aeeb9ce8c8484455d894d5_1756382031064_completion_certificate.pdf#toolbar=0&view=fitH
+  
 ![IAM](./CyberSec_IAM.jpg)
 
 ---
