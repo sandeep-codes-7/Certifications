@@ -9,6 +9,9 @@
 
 ![Udemy](./udemy_python.jpg)
 
+### Database Management Systems
+- ![dbms](./Database_management_systems.pdf/)
+
 ### Introduction to Natural Language Processesing
 ![NLP](./infosys_springboard_NLP.jpg)
 
