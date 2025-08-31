@@ -17,6 +17,11 @@
 ![NLP](./infosys_springboard_NLP.jpg)
 
 ---
+
+### CyberSecurity Analyst Job Simulation
+![IAM](./CyberSec_IAM.jpg)
+
+---
 # [Software Engineering and Agile Development](./software_engineering_and_Agile.pdf/)
 ---
 
