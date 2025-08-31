@@ -9,11 +9,16 @@
 
 ![Udemy](./udemy_python.jpg)
 
-### Database Management Systems
-- ![dbms](./Database_management_systems.pdf/)
+---
+# [DataBase Management System (click here)](./Database_management_systems.pdf/)
+---
 
 ### Introduction to Natural Language Processesing
 ![NLP](./infosys_springboard_NLP.jpg)
+
+---
+# [Software Engineering and Agile Development](./software_engineering_and_Agile.pdf/)
+---
 
 # Skill Badges
 ### Skill Badges aquired from cloud skill boost by google.
